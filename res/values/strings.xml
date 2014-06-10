@@ -1,5 +1,10 @@
 <resources>
 
     <string name="app_name">MonXaoVN</string>
-
+	<string name="wifi_setting_title">Wifi Setting</string>
+    <string name="wifi_setting_message">Wifi is not enabled. Do you want to go to settings menu?</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_exit">Do you want to exit application?</string>
 </resources>
